@@ -18,7 +18,7 @@ Twitter: https://twitter.com/gishackathon
 
 ### Partneři
 
-#### Česká spořitelna, tým ATP
+#### Česká spořitelna, tým ATP ( Advanced Technology and Prototyping )
 
 http://developers.csas.cz/
 
