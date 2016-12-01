@@ -18,7 +18,16 @@ Twitter: https://twitter.com/gishackathon
 
 ### Partneři
 
+#### Česká spořitelna, tým ATP
+
+http://developers.csas.cz/
+
 #### Kiwi.com
+
 https://kiwi.com/jobs/
 
+
+#### Mendelova univerzita v Brně
+
+http://mendelu.cz/
 
