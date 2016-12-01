@@ -17,3 +17,8 @@ Twitter: https://twitter.com/gishackathon
 
 
 ### Partneři
+
+#### Kiwi.com
+https://kiwi.com/jobs/
+
+
