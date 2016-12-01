@@ -1,1 +1,6 @@
-# gishackathon_2017_03
+# GISHackathon konference - doprava, infrastruktura, (indoor) navigace
+
+Termín: 24. - 25. 03. 2017
+
+Místo: Mendelova univerzita v Brně, http://mendelu.cz
+
