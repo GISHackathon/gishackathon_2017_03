@@ -15,11 +15,11 @@ Twitter: https://twitter.com/gishackathon
 
 ### Program
 
-(Mám tip na přednášku){mailto:gishackathon@dumo.cz}
+[Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
 ### Partneři
 
-(Chci být partnerem){mailto:gishackathon@dumo.cz}
+[Chci být partnerem](mailto:gishackathon@dumo.cz)
 
 #### Česká spořitelna, tým ATP ( Advanced Technology and Prototyping )
 
