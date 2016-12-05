@@ -1,4 +1,7 @@
 # GISHackathon konference
+
+Přednášky z oblasti GISu, příjemné posezení u číše vína. Pravidelné setkání komunity od kartografů po programátory.
+
 ## Lidé v pohybu
 
 Termín: 24. - 25. 03. 2017
