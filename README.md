@@ -23,6 +23,7 @@ draft přednášek, témat nebo přednášejících
 - Kiwi.com
 - od MS DOS po webový GIS, aneb čtvrt století sloužíme obyčejným uživatelům
 - Jan Sirotek
+- CleverAnalytics
 
 [Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
