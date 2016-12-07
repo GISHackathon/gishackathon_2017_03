@@ -18,6 +18,12 @@ Twitter: https://twitter.com/gishackathon
 
 ### Program
 
+draft přednášek, témat nebo přednášejících
+
+- Kiwi.com
+- od MS DOS po webový GIS, aneb čtvrt století sloužíme obyčejným uživatelům
+- Jan Sirotek
+
 [Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
 ### Partneři
