@@ -24,6 +24,7 @@ draft přednášek, témat nebo přednášejících
 - od MS DOS po webový GIS, aneb čtvrt století sloužíme obyčejným uživatelům
 - Jan Sirotek
 - CleverAnalytics
+- Chytré auto https://www.t-mobile.cz/chytre-auto
 
 [Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
