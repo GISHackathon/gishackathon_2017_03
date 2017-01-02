@@ -25,6 +25,7 @@ draft přednášek, témat nebo přednášejících
 - Jan Sirotek
 - CleverAnalytics
 - Chytré auto https://www.t-mobile.cz/chytre-auto
+- CHAPS 
 
 [Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
