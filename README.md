@@ -18,7 +18,7 @@ Twitter: https://twitter.com/gishackathon
 
 ### Program
 
-draft přednášek, témat nebo přednášejících
+draft přednášek, témat nebo přednášejících. V pátek budou probíhat přednášky na téma Lidé v pohybu, v sobotu budou připraveny workshopy - programování s mentory.
 
 - Kiwi.com
 - od MS DOS po webový GIS, aneb čtvrt století sloužíme obyčejným uživatelům
