@@ -25,7 +25,8 @@ draft přednášek, témat nebo přednášejících. V pátek budou probíhat p�
 - Jan Sirotek - Jak pomáhat státní správě usnadňovat život a snižovat administrativu
 - CleverAnalytics
 - Chytré auto https://www.t-mobile.cz/chytre-auto
-- CHAPS 
+- CHAPS - IDOS
+- Stabislav Šumbera - webové vizualizace pro inzenyrske site
 
 [Mám tip na přednášku](mailto:gishackathon@dumo.cz)
 
