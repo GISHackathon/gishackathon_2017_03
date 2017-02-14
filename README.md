@@ -22,7 +22,7 @@ draft přednášek, témat nebo přednášejících. V pátek budou probíhat p�
 
 - Kiwi.com
 - od MS DOS po webový GIS, aneb čtvrt století sloužíme obyčejným uživatelům
-- Jan Sirotek
+- Jan Sirotek - Jak pomáhat státní správě usnadňovat život a snižovat administrativu
 - CleverAnalytics
 - Chytré auto https://www.t-mobile.cz/chytre-auto
 - CHAPS 
